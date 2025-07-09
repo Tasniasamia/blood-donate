@@ -5,7 +5,7 @@ import { FaPlay } from "react-icons/fa";
 const Banner = () => {
   return (
     <div className="bg-[#FBF8F2]">
-    <div className="max-w-[1320px] mx-auto pt-[35px] lg:px-0 px-[20px]  lg:mb-[98px] mb-[60px]">
+    <div className="max-w-[1320px] mx-auto pt-[35px] lg:px-0 px-[20px]  lg:pb-[98px] pb-[60px]">
       <div className="grid w-fit mx-auto gap-[15px] 2xl:grid-cols-[708px_965px] xl:grid-cols-[600px_600px]  grid-cols-1">
         <div >
           <div>
@@ -15,7 +15,7 @@ const Banner = () => {
             <h1 className="font-nunito text-text_primary pt-[16px] pb-[43px] font-bold text-[32px] sm:text-[40px] md:text-[50px] lg:text-[60px] xl:text-[70px] leading-[100%] tracking-[0%]">
               Believe in The Better Future of Others.
             </h1>
-            <p className="font-roboto pb-[64px] text-text_secondary font-normal text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] xl:text-[24px] leading-[24px] sm:leading-[28px] md:leading-[30px] tracking-[0%]">
+            <p className="font-roboto pb-[64px] text-text_secondary font-normal text-[16px] sm:text-[18px]  leading-[24px] sm:leading-[28px]  tracking-[0%]">
               Lorem ipsum dolor sit amet consectetur. Quisque quisque cursus
               tellus dui gravida. Sed at a massa nunc at.
             </p>
@@ -42,7 +42,7 @@ const Banner = () => {
               <h4 className="font-nunito mb-[20px] font-bold text-[22px] sm:text-[26px] md:text-[30px] lg:text-[35px] xl:text-[40px] leading-[100%] tracking-[0%]">
                 Join Our Upcoming Campaign
               </h4>
-              <p className="font-roboto font-normal text-[16px] sm:text-[18px] md:text-[20px] lg:text-[22px] xl:text-[24px] leading-[24px] sm:leading-[28px] md:leading-[30px] tracking-[0%] text-text_secondary">
+              <p className="font-roboto font-normal text-[16px] sm:text-[18px]  leading-[24px] sm:leading-[28px]  tracking-[0%] text-text_secondary">
                 Make an impact one piece of clothing at a time to need of
                 others.
               </p>
