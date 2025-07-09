@@ -9,6 +9,8 @@ module.exports = {
       extend: {
         backgroundImage: {
           'custom-gradient': 'linear-gradient(180deg, #EBB011 0%, #ED861D 99.48%)',
+          'blue-vertical-gradient': 'linear-gradient(180deg, #1ECFFE 0%, #1287FF 100%)',
+
         },
         colors: {
           text_secondary: "#525252",

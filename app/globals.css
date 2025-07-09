@@ -12,8 +12,14 @@
 
 /* container */
 .header-container {
-  max-width: 1719px;
+  max-width: 1320px;
   margin: 0 auto;
+}
+.title{
+  background: -webkit-linear-gradient(180deg, #00AF90 0%, #00715D 97.92%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
 }
 media (max-width: 640px) {
   .header-container {
@@ -22,13 +28,7 @@ media (max-width: 640px) {
   }
 }
 
-/* Medium devices (md) */
 
-
-
-
-
-/* Icon hover effects */
 .icon-hover {
   transition: all 0.3s ease;
 }
@@ -36,3 +36,8 @@ media (max-width: 640px) {
 .icon-hover:hover {
   transform: scale(1.1);
 }
+
+
+
+
+
